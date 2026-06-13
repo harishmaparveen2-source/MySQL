@@ -13,9 +13,6 @@ This project demonstrates the development of an Employee Database Management Sys
 - Generate meaningful insights using SQL queries.
 - Automate data retrieval using stored procedures.
 
-## 🎥 Project Demo
-
-[![Watch Demo]("C:\Users\ELCOT\Videos\Screen Recordings\Screen Recording 2026-06-12 220140.mp4"]
 
 ## Tools & Technologies
 
