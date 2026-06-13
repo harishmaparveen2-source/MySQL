@@ -23,11 +23,6 @@ This project demonstrates the development of an Employee Database Management Sys
 - DML (Data Manipulation Language)
 - DQL (Data Query Language)
 
-## 🎥 Project Demo
-
-[![Watch Video](https://github.com/harishmaparveen2-source/MySQL/raw/refs/heads/main/Screen%20Recording%202026-06-12%20220140.mp4)
-
-
 ## Database Information
 
 The database contains:
