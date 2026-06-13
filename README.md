@@ -25,7 +25,7 @@ This project demonstrates the development of an Employee Database Management Sys
 
 ## 🎥 Project Demo
 
-[![Watch Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch Video](https://github.com/harishmaparveen2-source/MySQL/raw/refs/heads/main/Screen%20Recording%202026-06-12%20220140.mp4)
 
 
 ## Database Information
