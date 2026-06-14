@@ -1,5 +1,11 @@
 # Employee Database Management System using SQL
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-FF6F00?style=flat&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=flat&logoColor=white)
+![Query Writing](https://img.shields.io/badge/Query_Writing-6A1B9A?style=flat&logoColor=white)
+
 ## Overview
 
 This project demonstrates the development of an Employee Database Management System using SQL. It includes database creation, table management, data insertion, data retrieval, data modification, joins, aggregate functions, views, and stored procedures to manage and analyze employee information efficiently.
