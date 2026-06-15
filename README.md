@@ -76,7 +76,7 @@ The database contains:
 
 ## 🎥 SQL Project Demo Video
 
-[▶️ Watch SQL Project Demo]()
+[▶️ Watch SQL Project Demo](https://github.com/harishmaparveen2-source/MySQL/blob/b81f551285b90b48ff71720845634cdb953bc4b9/Video%20Project%201.mp4)
 
 ## Key Insights
 
