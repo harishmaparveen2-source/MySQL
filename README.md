@@ -44,6 +44,10 @@ The database contains:
 - Contact Information
 - Department Locations
 
+## 📸 SQL Query Results & Views
+
+![SQL Query Results]()
+
 ## SQL Operations Performed
 
 - Database Creation
