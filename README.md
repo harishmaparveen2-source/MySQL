@@ -31,7 +31,7 @@ This project demonstrates the development of an Employee Database Management Sys
 
 ## 📸 Database Management & Table Operations
 
-![Database Management]()
+![Database Management](https://github.com/harishmaparveen2-source/MySQL/blob/f6cbce95e7789fcde2116f77a0af22075a662a03/MySQL.png)
 
 ## Database Information
 
