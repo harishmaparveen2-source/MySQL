@@ -46,7 +46,7 @@ The database contains:
 
 ## 📸 SQL Query Results & Views
 
-![SQL Query Results]()
+![SQL Query Results](https://github.com/harishmaparveen2-source/MySQL/blob/35819ffc1fe91744443d490859c4e18a09d3002e/SQL%20S.png)
 
 ## SQL Operations Performed
 
