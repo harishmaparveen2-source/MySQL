@@ -74,6 +74,10 @@ The database contains:
 - Query Writing
 - Problem Solving
 
+## 🎥 SQL Project Demo Video
+
+[▶️ Watch SQL Project Demo]()
+
 ## Key Insights
 
 - Analyze employee salary distribution.
