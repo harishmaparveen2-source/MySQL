@@ -91,7 +91,3 @@ Built a complete SQL Employee Database Management System that manages employee r
 Harishma Parveen
 
 Aspiring Data Analyst | Data Science Enthusiast
-
-
-https://github.com/user-attachments/assets/d4a3688f-84fc-494c-8b52-fbb57904b604
-
