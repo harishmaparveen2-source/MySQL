@@ -76,7 +76,8 @@ The database contains:
 
 ## 🎥 SQL Project Demo Video
 
-[Watch SQL Project Demo](https://github.com/harishmaparveen2-source/MySQL/blob/2d2e6b79d11ea0c94cc3e459ac2557868ba05a02/Video%20Project%201.mp4)
+[Watch SQL Project Demo](https://github.com/user-attachments/assets/d4a3688f-84fc-494c-8b52-fbb57904b604)
+
 ## Key Insights
 
 - Analyze employee salary distribution.
@@ -93,3 +94,7 @@ Built a complete SQL Employee Database Management System that manages employee r
 Harishma Parveen
 
 Aspiring Data Analyst | Data Science Enthusiast
+
+
+https://github.com/user-attachments/assets/d4a3688f-84fc-494c-8b52-fbb57904b604
+
