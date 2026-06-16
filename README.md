@@ -30,8 +30,8 @@ This project demonstrates the development of an Employee Database Management Sys
 - DQL (Data Query Language)
 
 ## 📸 Database Management & Table Operations
+![Database Management]()
 
-[▶️ Watch SQL Project Demo]()
 
 ## Database Information
 
