@@ -30,8 +30,7 @@ This project demonstrates the development of an Employee Database Management Sys
 - DQL (Data Query Language)
 
 ## 📸 Database Management & Table Operations
-![Database Management]()
-
+![Database Management](https://github.com/harishmaparveen2-source/MySQL/blob/fbb5fcbd81dc3d88e32a33d66882fc4ecfbd6765/MySQL.png)
 
 ## Database Information
 
@@ -45,7 +44,6 @@ The database contains:
 - Department Locations
 
 ## 📸 SQL Query Results & Views
-
 ![SQL Query Results](https://github.com/harishmaparveen2-source/MySQL/blob/35819ffc1fe91744443d490859c4e18a09d3002e/SQL%20S.png)
 
 ## SQL Operations Performed
@@ -75,7 +73,6 @@ The database contains:
 - Problem Solving
 
 ## 🎥 SQL Project Demo Video
-
 [Watch SQL Project Demo](https://github.com/user-attachments/assets/d4a3688f-84fc-494c-8b52-fbb57904b604)
 
 ## Key Insights
